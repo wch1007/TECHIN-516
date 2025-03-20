@@ -7,3 +7,4 @@ This project involves Kinova, Turtlebot, and command launch.
 - Command launch configurations
 ## Notes
 Revision history will be tracked.
+trajectory_from_csv.py is the main code.
